@@ -1,7 +1,9 @@
+---
 layout: page
 title: "Thinking Fast and Slow"
 date: 2020-06-18 16:29:00 -0000
 categories: BOOKS LIFE
+---
 
 This book is hefty and full of juicy info. I'm storing my notes here because I am afraid that I will not be able to store all of them in my head, and while I prefer to write by hand, this book is simply too long.
 
