@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Books and Notes
 description: Storing quarantine stuff
+plugins:
+  - jekyll-feed
