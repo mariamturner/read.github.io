@@ -1,5 +1,3 @@
-theme: jekyll-theme-hacker
+theme: minima
 title: Books and Notes
 description: Storing quarantine stuff
-plugins:
-  - jekyll-feed
